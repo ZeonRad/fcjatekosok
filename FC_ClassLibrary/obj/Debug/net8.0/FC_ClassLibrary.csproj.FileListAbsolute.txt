@@ -1,0 +1,14 @@
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\input\jatekosadatok.csv
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\input\jatekosok.csv
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\input\orszag.csv
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\FC_ClassLibrary.deps.json
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\FC_ClassLibrary.dll
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\bin\Debug\net8.0\FC_ClassLibrary.pdb
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.AssemblyInfoInputs.cache
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.AssemblyInfo.cs
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.csproj.CoreCompileInputs.cache
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.dll
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\refint\FC_ClassLibrary.dll
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\FC_ClassLibrary.pdb
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_ClassLibrary\obj\Debug\net8.0\ref\FC_ClassLibrary.dll
