@@ -1,0 +1,5 @@
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_WPF\obj\Debug\net8.0-windows\JatekosGui.csproj.AssemblyReference.cache
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_WPF\obj\Debug\net8.0-windows\App.g.cs
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_WPF\obj\Debug\net8.0-windows\JatekosGui_MarkupCompile.cache
+F:\2024-25 suli\C#\FC_jatekosok_2\FC_Jatekosok\FC_WPF\obj\Debug\net8.0-windows\JatekosGui_MarkupCompile.lref
